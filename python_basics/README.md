@@ -4,3 +4,4 @@ This folder contains Jupyter Notebooks with homework completed by Yulia Forostia
 - `HW2_List_Dictionary.ipynb` - the work with a list and a dictionary
 - `HW3_Conditional_statements.ipynb` - the work with conditional statements
 - `HW4_For_Loops.ipynb` - the work with for loops
+- `HW5_While_Loops_List_comprehensions.ipynb` - the work with while loops and list comprehensions
