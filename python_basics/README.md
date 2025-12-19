@@ -6,4 +6,6 @@ This folder contains Jupyter Notebooks with homework completed by Yulia Forostia
 - `HW4_For_Loops.ipynb` - the work with for loops
 - `HW5_While_Loops_List_comprehensions.ipynb` - the work with while loops and list comprehensions
 - `HW6_Functions.ipynb` - the work with creation functions
-- `HW7_Numpy.ipynb` - the work with Numpy library
+- `HW7_Numpy.ipynb` - the work with the Numpy library
+- `HW8_Pandas.ipynb` - the work with the Pandas library
+The dataset is located at https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fsakshisatre%2Ftips-dataset 
